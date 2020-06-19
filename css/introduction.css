@@ -1,0 +1,57 @@
+/* wrapper_resume */
+.in_content {
+    width: 940px;
+    margin: auto;
+    background-image: url(../img/_bg3.jpg);
+}
+
+.wrapper_resume {
+    width: 920px;
+    margin: auto;
+    background-color: rgb(255, 254, 248);
+    padding-bottom: 30px;
+}
+
+.wrapper_resume p {
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 30px;
+    padding-top: 20px;
+}
+
+td {
+    width: 160px;
+    height: 25px;
+	font-size: 14px;
+	text-align: center;
+}
+
+tr {
+	text-align: center;
+}
+
+.title {
+    font-weight: bold;
+    background-color: lightsteelblue;
+}
+
+.wrapper_resume img {
+    width: 160px;
+    height: 210px;
+    margin: 0px;
+}
+
+ul {
+	margin: 5px;
+}
+li {
+	line-height: 20px;
+	text-align: left;
+}
+
+#self_ev {
+	text-align: left;
+	line-height: 40px;
+}
+
